@@ -1,0 +1,27 @@
+.lock-icon-wrapper {
+    position: relative;
+}
+
+.lock-icon {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+}
+
+.error-text {
+    color: red;
+    font-size: small;
+    align-self: center;
+    margin-top: 4px;
+    letter-spacing: 0.05em;
+}
+
+
+.input-lock-padding {
+    padding-right: 30px;
+}
+
+.border-error {
+    border-color: red;
+}
